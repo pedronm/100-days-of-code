@@ -36,3 +36,15 @@ com o Phaser depois pra eu pegar uma inspiração! Eu vou tentar não seguir um 
 Eu quero ir pelo camino dificil!
 
 GitRepo: https://github.com/pedronm/tetris-clone.git
+
+## R1D3
+
+::English
+Third day! Studied webpack  and almost finished the phaser3 basic tutorial. I'm going to commit some stuff for the tetris repo.
+
+::Português 
+Terceiro dia! Estudei webpack e estou quase terminando o tutorial básico de phaser3. Eu vou comittar algumas coisas que fiz no repositório do Tetris.
+
+GitRepo: https://github.com/pedronm/tetris-clone.git
+
+GitRepo: https://github.com/pedronm/tetris-clone.git
