@@ -47,4 +47,18 @@ Terceiro dia! Estudei webpack e estou quase terminando o tutorial básico de pha
 
 GitRepo: https://github.com/pedronm/tetris-clone.git
 
+
+## R1D4
+
+::English
+Finshed the basic tutorial for phaser and probably will be getting into others they have plenty of them for free! And kept into the webpack tutorials.
+I have some experience with some frameworks for web, but i'm learning new tricks with with it by some web tutorials, so, i'll keep the webpack tutorials 
+and maybe i even get to do some crazy plugins for game dev with phaser haha
+
+::Português 
+Finalizer o tutorial básico de phaser e provavelmente eu vou estar fazendo algum dos outros tutoriais. Eles tem muitos tutoriais e els ainda são de graça! 
+Devo continuar com os tutoriais de webpack, já tenho alguma experiência com frameworks e estou aprendendo alguns truques com esses tutorias da interner
+então, eu vou manter os tutoriais. Quem sabe eu até faço alguns plugins pra desenvolver com o phaser hahahauhsas
+
 GitRepo: https://github.com/pedronm/tetris-clone.git
+
