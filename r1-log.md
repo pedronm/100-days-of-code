@@ -62,3 +62,19 @@ então, eu vou manter os tutoriais. Quem sabe eu até faço alguns plugins pra d
 
 GitRepo: https://github.com/pedronm/tetris-clone.git
 
+
+## R1D5
+
+::English
+Did some searchs about Phaser3 projects structure, saw some examples and changed my own project within these ideas. Also for today i created a trello page so
+i can keep track of the coming n goings. For the code i just hitted a fewer lines for the physics and the assets. 
+
+::Português 
+Fiz algumas pesquisas sobre estruturas de projetos com Phaser3, vi alguns exemplos e mudei meu projeto de acordo com essas ideias. Hoje também criei um trello
+porque consigo manter um acompanhamento do que foi feito e do que tem a fazer. No código eu incluí algumas poucas linhas de código para a física e recursos.
+
+https://trello.com/b/AIobnaLU/tetris
+
+
+
+
