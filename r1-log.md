@@ -76,5 +76,16 @@ porque consigo manter um acompanhamento do que foi feito e do que tem a fazer. N
 https://trello.com/b/AIobnaLU/tetris
 
 
+## R1D6
+
+::English
+I'm studing by the Ourcade Phaser tutorials, updated the trello board and also start working in the game assets.
+
+::Português 
+Estou estudando pelos tutoriais do Ourcade de Phaser, atualizei as boards do trello e comecei a trabalhar nos assets do game.
+
+https://trello.com/b/AIobnaLU/tetris
+
+
 
 
