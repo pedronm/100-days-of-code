@@ -79,12 +79,20 @@ https://trello.com/b/AIobnaLU/tetris
 ## R1D6
 
 ::English
-I'm studing by the Ourcade Phaser tutorials, updated the trello board and also start working in the game assets.
+I'm studing by the Ourcade Phaser tutorials, updated the trello board and also start working in the game assets with gimp.
 
 ::Português 
-Estou estudando pelos tutoriais do Ourcade de Phaser, atualizei as boards do trello e comecei a trabalhar nos assets do game.
+Estou estudando pelos tutoriais do Ourcade de Phaser, atualizei as boards do trello e comecei a trabalhar nos assets do game com Gimp.
 
 https://trello.com/b/AIobnaLU/tetris
+
+## R1D&
+
+::English
+More Ourcade videos of game dev with Phaser(doing the one about pong) and planning assets.
+
+::Português 
+Mais videos de desenvolvimento de games com Phaser do Ourcade(pong) e planejamento de assets.
 
 
 
