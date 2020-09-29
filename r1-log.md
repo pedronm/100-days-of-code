@@ -86,7 +86,7 @@ Estou estudando pelos tutoriais do Ourcade de Phaser, atualizei as boards do tre
 
 https://trello.com/b/AIobnaLU/tetris
 
-## R1D&
+## R1D7
 
 ::English
 More Ourcade videos of game dev with Phaser(doing the one about pong) and planning assets.
@@ -95,5 +95,11 @@ More Ourcade videos of game dev with Phaser(doing the one about pong) and planni
 Mais videos de desenvolvimento de games com Phaser do Ourcade(pong) e planejamento de assets.
 
 
+## R1D8
 
+::English
+Watched Ourcade tutorials, close to finishing it. I'm already did a few sketchs of my ideas and planning the effects and music.
+
+::Portuguese
+Assisti tutoriais do Ourcade, perto de finalizá-lo. Eu já fiz alguns rascunhos das minhas ideias e planejando os efeitos e musica.
 
