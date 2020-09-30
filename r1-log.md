@@ -103,3 +103,19 @@ Watched Ourcade tutorials, close to finishing it. I'm already did a few sketchs 
 ::Portuguese
 Assisti tutoriais do Ourcade, perto de finalizá-lo. Eu já fiz alguns rascunhos das minhas ideias e planejando os efeitos e musica.
 
+## R1D9
+
+::English
+Last videos of the tutorial, i've wrote down some ideas to give a identity to the game and also for the assets.
+
+::Portuguese
+Ultimos videos do tutorial, anotei algumas ideias para dar identidade ao game e também para os assets.
+
+## R1D10
+
+::English
+Haven't done much today unfortunately, but in fact four tutorial videos left. Learned about the font issue in phaser.
+
+::Portuguese
+Não fiz muito hoje infelizmente, mas faltam quatro videos do tutorial. Aprendo sobre o problema de font do phaser.
+
