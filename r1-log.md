@@ -119,3 +119,10 @@ Haven't done much today unfortunately, but in fact four tutorial videos left. Le
 ::Portuguese
 Não fiz muito hoje infelizmente, mas faltam quatro videos do tutorial. Aprendo sobre o problema de font do phaser.
 
+## R1D11
+
+::English
+More of the tutorial(almooost there), i've readed the phaser documentation and catched more assets.
+
+::Portuguese
+Mais do tutorial(quaaase lá), estudei a documentação do Phaser e peguei mais alguns assets.
