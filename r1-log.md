@@ -126,3 +126,11 @@ More of the tutorial(almooost there), i've readed the phaser documentation and c
 
 ::Portuguese
 Mais do tutorial(quaaase lá), estudei a documentação do Phaser e peguei mais alguns assets.
+
+## R1D12
+
+::English
+Get to the last video, got some ideas for the IA and for the randomizer. Been working on the music and sounds.
+
+::Portuguese
+Cheguei no último video do tutorial, consegui algumas ideias pra IA e pro randomizador de objetos. Estou trabalhando também na musicas e efeitos.
