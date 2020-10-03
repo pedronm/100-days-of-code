@@ -134,3 +134,10 @@ Get to the last video, got some ideas for the IA and for the randomizer. Been wo
 
 ::Portuguese
 Cheguei no último video do tutorial, consegui algumas ideias pra IA e pro randomizador de objetos. Estou trabalhando também na musicas e efeitos.
+
+## R1D13
+
+::English
+Well there still one last video 10 of ten now, anyways. Tomorrow is going to be great, hadn't much for working on it today. 
+::Portuguese
+Bom ainda tinha mais um video, agora sim estou indo pro 10 de 10. Amanhã vai ser um ótimo dia, não tive muito tempro pra focar no projeto hoje.
